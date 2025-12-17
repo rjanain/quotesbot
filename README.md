@@ -48,7 +48,6 @@ Each spider targets a specific quotes.toscrape.com endpoint designed to teach di
 Each spider targets a different endpoint or challenge on the website:
 
 ### Basic Spiders
-- **`toscrHTML Parsing
 - **`toscrape-css`** → `/` endpoint
   - Standard HTML scraping using CSS selectors
   - Best starting point for Scrapy beginners
