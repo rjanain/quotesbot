@@ -129,6 +129,7 @@ Learning
 - **Check API responses**: For `toscrape-scroll`, visit the API endpoint directly to see the JSON structure
 
 - **Experiment freely**: quotes.toscrape.com is a sandbox designed for learning - modify the spiders and try different technique
+```
 cd quotesbot
 pip install scrapy
 ```
